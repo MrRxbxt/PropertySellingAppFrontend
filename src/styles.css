@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background: linear-gradient(to right,#38003c 0%,#9e0038 100%);
+}
+
+.btn-outline-success {
+    color: #e90052;
+    border-color: #e90052;
+}
+
+.btn-outline-success:hover {
+    background-color: #e90052 !important;
+    border-color: #e90052 !important;
+  }
